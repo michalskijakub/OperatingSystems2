@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/klient1.dir/main.c.o CMakeFiles/klient1.dir/function.c.o  -o klient1 
